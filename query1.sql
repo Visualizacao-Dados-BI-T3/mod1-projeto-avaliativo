@@ -1,0 +1,1 @@
+-- Query 1 — Salário por Departamento e Cargo
