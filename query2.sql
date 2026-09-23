@@ -1,1 +1,0 @@
--- Query 2 — Funcionários por Região (com localização)
