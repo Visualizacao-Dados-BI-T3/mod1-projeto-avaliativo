@@ -1,6 +1,10 @@
 # mod1-projeto-avaliativo
 Projeto de conclusão do Módulo 1 do curso de Visualização de Dados e Business Intelligence [T3] - SENAI SC. Análise de dados de RH com SQL e Python.
 
+# Estrutura de pastas
+|__ sql/ # contém scripts .sql, das queries 1 e 2
+|__ data/ # contém a exportação dos resultados das queries de sql/ em .csv
+
 # Como rodar
 1. Baixe os arquivos `query1.csv` e `query2.csv`
 2. Acesse o link do colab que está no arquivo `projeto_avaliativo.ipynb`
