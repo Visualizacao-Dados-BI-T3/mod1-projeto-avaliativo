@@ -1,4 +1,5 @@
 # mod1-projeto-avaliativo
+
 Projeto de conclusão do Módulo 1 do curso de Visualização de Dados e Business Intelligence [T3] - SENAI SC. Análise de dados de RH com SQL e Python.
 
 # Estrutura de pastas
@@ -13,3 +14,7 @@ Projeto de conclusão do Módulo 1 do curso de Visualização de Dados e Busines
 3. Faça uma cópia do código no seu Drive
 4. Coloque os arquivos baixados no colab (através de upload)
 5. Execute as células de forma sequencial
+
+## Exemplo de gráfico gerado - Distribuição salarial
+![Imagem](images/distribuicao_salarial.png)
+
